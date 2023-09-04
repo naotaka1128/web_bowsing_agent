@@ -4,3 +4,4 @@ langchain==0.0.279
 html2text==2020.1.16
 beautifulsoup4==4.12.2
 duckduckgo-search==3.8.5
+readability-lxml==0.8.1
