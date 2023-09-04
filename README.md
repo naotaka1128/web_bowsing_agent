@@ -2,6 +2,8 @@
 ## tl;dr
 This is a sample Web Browsing Agent app that uses LangChain's `OpenAIFunctionsAgent` and Streamlit's `StreamlitCallbackHandler`.
 
+You can try this out from [this Sample App](https://web-browsing-agent.streamlit.app/) (OpenAI API key required).
+
 ## How it Works
 - The agent uses custom-built DuckDuckGo's search tools and a page retrieval tool to perform web browsing to answer users' questions.
 - It employs an agent that uses OpenAI Function Calling, ensuring stable operation.
