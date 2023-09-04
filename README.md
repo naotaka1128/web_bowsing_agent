@@ -4,6 +4,8 @@ This is a sample Web Browsing Agent app that uses LangChain's `OpenAIFunctionsAg
 
 You can try this out from [this Sample App](https://web-browsing-agent.streamlit.app/) (OpenAI API key required).
 
+https://github.com/naotaka1128/web_bowsing_agent/assets/5688448/259a80ed-8d6a-44c7-8f7d-c910016ad24f
+
 ## How it Works
 - The agent uses custom-built DuckDuckGo's search tools and a page retrieval tool to perform web browsing to answer users' questions.
 - It employs an agent that uses OpenAI Function Calling, ensuring stable operation.
